@@ -8,10 +8,7 @@ public class Demo {
         }
 
         SquarePeg smallSqPeg = new SquarePeg(2);
-        SquarePeg largeSqPeg = new SquarePeg(20);
-        // hole.fits(smallSqPeg); // Won't compile.
-
-        // Adapter solves the problem.
+        SquarePeg largeSqPeg = new SquarePeg(20);                
         
         if (hole.fits(smallSqPeg)) {
             System.out.println("Square peg w2 fits round hole r5.");

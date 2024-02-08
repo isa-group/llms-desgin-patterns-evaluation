@@ -360,7 +360,7 @@ This approach allows you to keep the original `Shape` interface unchanged while 
 
 ### Evaluación y Discusión
 
-Al igual que en la ejecución 1 hemos necesitado especificar la imposibilidad de modificar algunas de las interfaces originales, pero una vez establecida dicha restricción, la identificación ha sido proaciva y exitosa y la generación correcta.
+Al igual que en la ejecución 1 hemos necesitado especificar la imposibilidad de modificar algunas de las interfaces originales, pero una vez establecida dicha restricción, la identificación ha sido proaciva y exitosa y la generación correcta (todo el código generado compila y puede ejecutarse con el resultado esperado).
 
 
 
