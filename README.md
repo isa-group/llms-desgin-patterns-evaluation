@@ -13,7 +13,28 @@ Inside the oodp-scenarios folders you will find three sub-folder one for each ty
 | [Creational](oodp-scenarios/creational)  | [Prototype](oodp-scenarios/creational/prototype)  |  [prototype-e1](oodp-scenarios/creational/prototype/prototype-e1)  |  [run2](oodp-scenarios/creational/prototype/prototype-e1/runs/run2.md) | 
 | [Creational](oodp-scenarios/creational)  | [Prototype](oodp-scenarios/creational/prototype)  |  [prototype-e2](oodp-scenarios/creational/prototype/prototype-e2)  |  [run1](oodp-scenarios/creational/prototype/prototype-e2/runs/run1.md) | 
 | [Creational](oodp-scenarios/creational)  | [Prototype](oodp-scenarios/creational/prototype)  |  [prototype-2](oodp-scenarios/creational/prototype/prototype-e2)  |  [run2](oodp-scenarios/creational/prototype/prototype-e2/runs/run2.md) |
-| [Structural](oodp-scenarios/structura)  | [Adapter](oodp-scenarios/structural/adapter)  |  [adapter-1](oodp-scenarios/structural/adapter/adapter-e1)  |  [run2](oodp-scenarios/structural/adapter/adapter-e1/runs/run2.md) |
+| [Structural](oodp-scenarios/structural)  | [Adapter](oodp-scenarios/structural/adapter)  |  [adapter-e1](oodp-scenarios/structural/adapter/adapter-e1)  |  [run1](oodp-scenarios/structural/adapter/adapter-e1/runs/run1.md) |
+| [Structural](oodp-scenarios/structural)  | [Adapter](oodp-scenarios/structural/adapter)  |  [adapter-e1](oodp-scenarios/structural/adapter/adapter-e1)  |  [run2](oodp-scenarios/structural/adapter/adapter-e1/runs/run2.md) |
+| [Structural](oodp-scenarios/structural)  | [Adapter](oodp-scenarios/structural/adapter)  |  [adapter-e2](oodp-scenarios/structural/adapter/adapter-e2)  |  [run1](oodp-scenarios/structural/adapter/adapter-e2/runs/run1.md) |
+| [Structural](oodp-scenarios/structural)  | [Adapter](oodp-scenarios/structural/adapter)  |  [adapter-e2](oodp-scenarios/structural/adapter/adapter-e2)  |  [run2](oodp-scenarios/structural/adapter/adapter-e2/runs/run2.md) |
+| [Structural](oodp-scenarios/structural)  | [Decorator](oodp-scenarios/structural/decorator)  |  [decorator-e1](oodp-scenarios/structural/decorator/decorator-e1)  |  [run1](oodp-scenarios/structural/decorator/decorator-e1/runs/run1.md) |
+| [Structural](oodp-scenarios/structural)  | [Decorator](oodp-scenarios/structural/decorator)  |  [decorator-e1](oodp-scenarios/structural/decorator/decorator-e1)  |  [run2](oodp-scenarios/structural/decorator/decorator-e1/runs/run2.md) |
+| [Structural](oodp-scenarios/structural)  | [Decorator](oodp-scenarios/structural/decorator)  |  [decorator-e2](oodp-scenarios/structural/decorator/decorator-e2)  |  [run1](oodp-scenarios/structural/decorator/decorator-e2/runs/run1.md) |
+| [Structural](oodp-scenarios/structural)  | [Decorator](oodp-scenarios/structural/decorator)  |  [decorator-e2](oodp-scenarios/structural/decorator/decorator-e2)  |  [run2](oodp-scenarios/structural/decorator/decorator-e2/runs/run2.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Command](oodp-scenarios/behavioural/command)  |  [command-e1](oodp-scenarios/behavioural/command/command-e1)  |  [run1](oodp-scenarios/behavioural/command/command-e1/runs/run1.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Command](oodp-scenarios/behavioural/command)  |  [command-e1](oodp-scenarios/behavioural/command/command-e1)  |  [run2](oodp-scenarios/behavioural/command/command-e1/runs/run2.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Command](oodp-scenarios/behavioural/command)  |  [command-e2](oodp-scenarios/behavioural/command/command-e2)  |  [run1](oodp-scenarios/behavioural/command/command-e1/runs/run1.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Command](oodp-scenarios/behavioural/command)  |  [command-e2](oodp-scenarios/behavioural/command/command-e2)  |  [run2](oodp-scenarios/behavioural/command/command-e1/runs/run2.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Strategy](oodp-scenarios/behavioural/strategy)  |  [strategy-e1](oodp-scenarios/behavioural/strategy/strategy-e1)  |  [run1](oodp-scenarios/behavioural/strategy/strategy-e1/runs/run1.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Strategy](oodp-scenarios/behavioural/strategy)  |  [strategy-e1](oodp-scenarios/behavioural/strategy/strategy-e1)  |  [run2](oodp-scenarios/behavioural/strategy/strategy-e1/runs/run2.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Strategy](oodp-scenarios/behavioural/strategy)  |  [strategy-e2](oodp-scenarios/behavioural/strategy/strategy-e2)  |  [run1](oodp-scenarios/behavioural/strategy/strategy-e2/runs/run1.md) |
+| [Behavioral](oodp-scenarios/behavioural)  | [Strategy](oodp-scenarios/behavioural/strategy)  |  [strategy-e2](oodp-scenarios/behavioural/strategy/strategy-e2)  |  [run2](oodp-scenarios/behavioural/strategy/strategy-e2/runs/run2.md) |
+
+
+
+
+
+
 
 
 
