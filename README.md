@@ -1,5 +1,5 @@
 # llms-desgin-patterns-evaluation 
-# a.k.a. Do electronic parrots dream design patterns?
+# a.k.a. Do electronic parrots dream of design patterns?
 
 
 This repository contains the scenarios and analysis performed for the JISBD2024 paper by J. A. Parejo (University of Sevilla).
