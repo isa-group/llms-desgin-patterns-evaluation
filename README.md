@@ -1,4 +1,4 @@
-# llms-desgin-patterns-evaluation 
+# llms-design-patterns-evaluation 
 # a.k.a. Do electronic parrots dream of design patterns?
 
 
