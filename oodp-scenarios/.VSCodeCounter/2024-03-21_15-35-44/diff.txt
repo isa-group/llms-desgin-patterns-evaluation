@@ -1,0 +1,53 @@
+Date : 2024-03-21 15:35:44
+Directory : c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios
+Total : 16 files,  40 codes, 0 comments, 4 blanks, all 44 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         16 |         40 |          0 |          4 |         44 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                         |         16 |         40 |          0 |          4 |         44 |
+| structural                                                                                                                                                                |         16 |         40 |          0 |          4 |         44 |
+| structural\adapter                                                                                                                                                        |         16 |         40 |          0 |          4 |         44 |
+| structural\adapter\adapter-e2                                                                                                                                             |         16 |         40 |          0 |          4 |         44 |
+| structural\adapter\adapter-e2\src                                                                                                                                         |          8 |         16 |          0 |          2 |         18 |
+| structural\adapter\adapter-e2\src\main                                                                                                                                    |          8 |         16 |          0 |          2 |         18 |
+| structural\adapter\adapter-e2\src\main\java                                                                                                                               |          8 |         16 |          0 |          2 |         18 |
+| structural\adapter\adapter-e2\src\main\java (Files)                                                                                                                       |          4 |        -41 |         -1 |        -12 |        -54 |
+| structural\adapter\adapter-e2\src\main\java\original                                                                                                                      |          4 |         57 |          1 |         14 |         72 |
+| structural\adapter\adapter-e2\target                                                                                                                                      |          8 |         24 |          0 |          2 |         26 |
+| structural\adapter\adapter-e2\target\classes                                                                                                                              |          8 |         24 |          0 |          2 |         26 |
+| structural\adapter\adapter-e2\target\classes (Files)                                                                                                                      |          3 |        -37 |          0 |         -1 |        -38 |
+| structural\adapter\adapter-e2\target\classes\original                                                                                                                     |          4 |         59 |          0 |          3 |         62 |
+| structural\adapter\adapter-e2\target\classes\run1                                                                                                                         |          1 |          2 |          0 |          0 |          2 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\Demo.java                 | Java     |        -17 |         -1 |         -3 |        -21 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\RoundHole.java            | Java     |          0 |          0 |         -1 |         -1 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\RoundPeg.java             | Java     |        -10 |          0 |         -4 |        -14 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\SquarePeg.java            | Java     |        -14 |          0 |         -4 |        -18 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\original\Demo.java        | Java     |         18 |          1 |          3 |         22 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\original\RoundHole.java   | Java     |         15 |          0 |          3 |         18 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\original\RoundPeg.java    | Java     |         10 |          0 |          4 |         14 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\src\main\java\original\SquarePeg.java   | Java     |         14 |          0 |          4 |         18 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\Demo.class               | Java     |        -10 |          0 |         -1 |        -11 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\RoundPeg.class           | Java     |        -13 |          0 |          0 |        -13 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\SquarePeg.class          | Java     |        -14 |          0 |          0 |        -14 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\original\Demo.class      | Java     |         11 |          0 |          1 |         12 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\original\RoundHole.class | Java     |         14 |          0 |          0 |         14 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\original\RoundPeg.class  | Java     |         18 |          0 |          1 |         19 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\original\SquarePeg.class | Java     |         16 |          0 |          1 |         17 |
+| c:\workspace\research\papers\2024\JISBD2024-JAParejo\llms-design-patterns-evaluation\oodp-scenarios\structural\adapter\adapter-e2\target\classes\run1\Demo.class          | Java     |          2 |          0 |          0 |          2 |
+| Total                                                                                                                                                                     |          |         40 |          0 |          4 |         44 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

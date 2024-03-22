@@ -7,6 +7,13 @@
     <artifactId>llm-design-patterns-adapter-e2</artifactId>
     <packaging>jar</packaging>
     <version>0.1.0</version>
+    
+    <parent>
+        <groupId>es.us.isa</groupId>
+        <artifactId>oodp-scenarios</artifactId>    
+        <version>0.1.0</version>
+        <relativePath>../../../pom.xml</relativePath>
+    </parent>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

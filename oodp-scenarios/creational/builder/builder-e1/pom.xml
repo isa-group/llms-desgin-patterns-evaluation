@@ -4,9 +4,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.us.isa</groupId>
-    <artifactId>llm-design-patterns-prototype-e1</artifactId>
+    <artifactId>llm-design-patterns-builder-e1</artifactId>
     <packaging>jar</packaging>
     <version>0.1.0</version>
+
+    <parent>
+        <groupId>es.us.isa</groupId>
+        <artifactId>oodp-scenarios</artifactId>    
+        <version>0.1.0</version>
+        <relativePath>../../../pom.xml</relativePath>
+    </parent>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
